@@ -24,15 +24,15 @@ wants to add user control for product category, so users can select a category a
 see the trend month-wise and product-wise accordingly. 
 The Analytics team also wants to create a histogram to analyze number of shipping days.
 
-# Dataset
+## Dataset
  Download the dataset for the project:
  https://drive.google.com/drive/folders/1tbkYiO17DHpm428WwXKyCAwqrqNAgzzF?usp=sharing
  
- # Dataset Description
+ ## Dataset Description
  
   There are 21 features in the dataset - Order ID, Order Date, Ship Date, Aging, Ship mode, Product Category, Product, Sales, Quantity, Discount, Profit, Shipping Cost, Order Priority, Customer ID, Customer Name, Segment, City, State, Country, Region, Months.
   
-# Analysis Tasks
+## Analysis Tasks
 For detailed step-by-step tasks, please refer to this document :
 https://drive.google.com/file/d/1HYoNmL2oOpO06dhULMxVjp121vhfUbrA/view
  
