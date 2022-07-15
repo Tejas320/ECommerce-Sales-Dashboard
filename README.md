@@ -30,7 +30,7 @@ The Analytics team also wants to create a histogram to analyze number of shippin
  
  ## Dataset Description
  
-  There are 21 features in the dataset - Order ID, Order Date, Ship Date, Aging, Ship mode, Product Category, Product, Sales, Quantity, Discount, Profit, Shipping Cost, Order Priority, Customer ID, Customer Name, Segment, City, State, Country, Region, Months.
+  There are 21 attributes in the dataset - Order ID, Order Date, Ship Date, Aging, Ship mode, Product Category, Product, Sales, Quantity, Discount, Profit, Shipping Cost, Order Priority, Customer ID, Customer Name, Segment, City, State, Country, Region, Months.
   
 ## Analysis Tasks
 For detailed step-by-step tasks, please refer to this document :
