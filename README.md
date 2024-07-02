@@ -1,4 +1,6 @@
-# ECommerce-Sales-Dashboard
+# ECommerce Sales Dashboard Using Tableau and Excel
+
+### (iNeuron.ai Internship Project)
 
 ## Sales Dashboard
 
